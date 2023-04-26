@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Tribute",
+    "content": "Tribute page to our beloved",
+    "website": "https://github.com/dradjai/about-me",
+    "cover": "https://picsum.photos/400/400"
+  },
+
+  {
+    "id": 2,
+    "name": "Scale",
+    "content": "Kardeshiev Scale",
+    "website": "https://github.com/dradjai/kardashev-scale",
+    "cover": "https://picsum.photos/400/400"
+  },
+
+  {
+    "id": 3,
+    "name": "Opera House Clock",
+    "content": "Personlized international clock",
+    "website": "https://github.com/dradjai/Sydney-OperaHouse-Clock",
+    "cover": "https://picsum.photos/400/400"
+  },
+
+  {
+    "id": 4,
+    "name": "About Me",
+    "content": "Project about ourself",
+    "website": "https://github.com/dradjai/about-me",
+    "cover": "https://picsum.photos/400/400"
+  },
+
+  {
+    "id": 5,
+    "name": "Counter App",
+    "content": "Counter App in React using useState",
+    "website": "https://github.com/dradjai/react-counter-app",
+    "cover": "https://picsum.photos/400/400"
+  },
+
+  {
+    "id": 6,
+    "name": "Quiz App",
+    "content": "made an app in React to take a quiz",
+    "website": "https://github.com/dradjai/quiz-app",
+    "cover": "https://picsum.photos/400/400"
+  },
+
+  {
+    "id": 7,
+    "name": "Much To Do App",
+    "content": "Made a full stack to do app using full CRUD with front and back end",
+    "website": "https://github.com/dradjai/much-todo-web",
+    "cover": "https://picsum.photos/400/400"
+  }
+]
